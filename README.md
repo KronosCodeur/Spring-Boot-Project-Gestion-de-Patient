@@ -1,4 +1,6 @@
 # Spring-Boot-Project-Gestion-de-Patient
 Spring Boot App for Patient Managment
-ceci est une Appli de Gestion de Patients fais avec Spring Boot (Back-end) uniquement...........
-merci!!!!!!!!!
+this is an App for the patients Managment.
+I build this App with Spring Boot(with java , maven).
+this is the back-end uniquely.
+Thanks you for visiting the repositories of Kronos_Codeur!!!!!!!!!
